@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¿Qué+onda?;Yo+soy+Santiago.;Soy+un+estudiante+de+Argentina,+y+un+desarrollador+Indie;Programador+principal+de+FaRTeam." />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¿Qué+onda?;Yo+soy+Santiago.;Soy+un+estudiante,+y+desarrollador+Indie;Actualmente+el+programador+principal+de+FaRTeam." />
 
 ### Mis Estadísticas
 <a href="#">
