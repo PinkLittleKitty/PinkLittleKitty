@@ -1,6 +1,6 @@
 <img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¿Qué+onda?;Yo+soy+Santiago.;Soy+un+estudiante,+y+desarrollador+Indie;Actualmente+el+programador+principal+de+FaRTeam." />
 
-### Mis Estadísticas
+### Mis Estadísticas:
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=PinkLittleKitty&count_private=true&theme=radical" />
 </a>
