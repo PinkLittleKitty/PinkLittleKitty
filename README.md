@@ -2,11 +2,11 @@
 
 ### My Stats
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aunali321&count_private=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PinkLittleKitty&count_private=true&theme=radical" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aunali321&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkLittleKitty&layout=compact" />
 </a>
 
 ### Tech I use
