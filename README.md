@@ -1,4 +1,4 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¿Qué+onda?;Yo+soy+Santiago.;Soy+un+estudiante,+y+desarrollador+indie.;Actualmente+estoy+trabajando+en+DSX+v3.1." />
+<img align="center" src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¿Qué+onda?;Yo+soy+Santiago.;Soy+un+estudiante,+y+desarrollador+indie.;Actualmente+estoy+trabajando+en+DSX+v4." />
 
 ### Mis Estadísticas:
 <a href="#">
