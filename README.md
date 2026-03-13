@@ -11,6 +11,7 @@
 - [Room Makers](https://justneki.com/RoomMakersWeb) - A game by F.a.R. Team
 - [KTA](https://play.google.com/store/apps/details?id=com.FaRTeam.KTA) - Mobile game on Google Play
 - [DSX](https://store.steampowered.com/app/1812620/DSX/) - @Paliverse Apps
+- [Emerald Legacy Launcher](https://github.com/Emerald-Legacy-Launcher/Emerald-Legacy-Launcher) - Team Emerald
 - [Web Projects Collection](https://justneki.com/WebProjects) - HTML/JavaScript/CSS projects
 
 ## 🛠️ Languages & Tools
