@@ -11,7 +11,7 @@
 - [Room Makers](https://justneki.com/RoomMakersWeb) - A game by F.a.R. Team
 - [KTA](https://play.google.com/store/apps/details?id=com.FaRTeam.KTA) - Mobile game on Google Play
 - [DSX](https://store.steampowered.com/app/1812620/DSX/) - @Paliverse Apps
-- [Emerald Legacy Launcher](https://github.com/Emerald-Legacy-Launcher/Emerald-Legacy-Launcher) - Team Emerald
+- [LCE Emerald Launcher](https://github.com/LCE-Hub/LCE-Emerald-Launcher) - Team Emerald
 - [Web Projects Collection](https://justneki.com/WebProjects) - HTML/JavaScript/CSS projects
 
 ## 🛠️ Languages & Tools
@@ -22,14 +22,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## 📊 GitHub Stats
-<a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PinkLittleKitty&count_private=true&theme=radical&show_icons=true" />
-</a>
-<a href="#">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkLittleKitty&layout=compact&theme=radical" />
-</a>
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-fisela/)
